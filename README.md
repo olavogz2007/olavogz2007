@@ -46,17 +46,14 @@ Atualmente busco evoluir como desenvolvedor e aplicar meus conhecimentos em proj
 
 <hr>
 
-<h2 style="color:#9333EA;">📊 Estatísticas</h2>
+<h2>📊 Estatísticas</h2>
 
-<p style="text-align:center;">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=olavogz2007&show_icons=true" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=olavogz2007&layout=compact" 
-    height="165"
-  />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=olavogz2007&theme=dark&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=olavogz2007&color=blue&style=for-the-badge" />
 </p>
 
 <hr>
