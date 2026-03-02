@@ -5,7 +5,7 @@
 <p style="text-align:center; font-size:18px;">
   💻 Estudante de Sistemas de Informação <br>
   🎯 Foco em Desenvolvimento de Software <br>
-  📍 São Paulo - Brasil
+  📍 São Paulo - Presidente Prudente - Brasil
 </p>
 
 <hr>
